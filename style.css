@@ -1,0 +1,20 @@
+.heading{
+    width: 100%;
+    font-size: xx-large;
+}
+.div_speed{
+    float: left;
+}
+
+.div_v{
+    float: right;
+}
+.speed_img{
+    width:250px;
+}
+.v_img{
+    width:250px; 
+}
+canvas{
+    margin-top: 100px;
+}
